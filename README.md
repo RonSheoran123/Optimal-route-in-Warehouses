@@ -12,9 +12,17 @@ Orders are divided into "waves", where each wave consists 'n' number of orders.F
 For every wave, a graphical reprentation of its path is also plotted.
 
 **Results**
-The total distance covered for each wave decreases exponentially as the number of orders per wave increases(with a 72.28% decrease in total distace from 1 order/wave to 10 orders/wave). Suitable orders/wave can be chosen according to the capacity of equipments such as forklift.
+The total distance covered for each wave decreases exponentially as the number of orders per wave increases(with a **72.28%** decrease in total distace from 1 order/wave to 10 orders/wave). Suitable orders/wave can be chosen according to the capacity of equipments such as forklift.
 
 **Constraints**
 1) It is assumed that only one vehicle is available to use.
 2) The time window in which the order has to be retrieved is ignored(due to unavailability of such a dataset to use).
 
+**Total distance covered vs Orders per wave**
+
+<img width="775" alt="Screenshot 2023-07-21 132922" src="https://github.com/RonSheoran123/Optimal-route-in-Warehouses/assets/106268100/f9950521-e52b-493d-9d13-fcb841344f7c">
+
+
+**Route for a wave with 11 orders**
+
+<img width="471" alt="image" src="https://github.com/RonSheoran123/Optimal-route-in-Warehouses/assets/106268100/ebc6d59a-0d58-42c2-be41-31b2f37bbf9b">
