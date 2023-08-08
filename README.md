@@ -15,7 +15,7 @@ For every wave, a graphical reprentation of its path is also plotted.
 The total distance covered for each wave decreases exponentially as the number of orders per wave increases(with a **72.28%** decrease in total distace from 1 order/wave to 10 orders/wave). Suitable orders/wave can be chosen according to the capacity of equipments such as forklift.
 
 **Constraints**
-1) It is assumed that only one vehicle is available to use.
+1) It is assumed that only one vehicle is available for use.
 2) The time window in which the order has to be retrieved is ignored(due to unavailability of such a dataset to use).
 
 **Total distance covered vs Orders per wave**
